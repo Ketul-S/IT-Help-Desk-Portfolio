@@ -52,7 +52,7 @@ The goal was to practice tasks commonly performed by IT Help Desk technicians an
 
 ## Project Evidence
 
-Screenshots and a detailed PDF documenting the configuration steps will be uploaded to this folder.
+[View Full Windows Server 2022 Project PDF](Portfolio%20.pdf)
 
 ## Conclusion
 
